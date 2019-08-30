@@ -10,3 +10,4 @@ A boilerplate including typescript, TSLint and Prettier support. It runs prettie
  - Start dev server: `yarn start`
  - Run TSLint: `yarn lint`
  - Run prettier: `yarn prettier`
+ - Run tests: `yarn test`
